@@ -4,6 +4,7 @@
 ---
 
 <div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=xYulania&show_icons=true&card_width=390&theme=radical" height="150" alt="GitHub Stats" />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=xYulania&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false" height="150" alt="stats graph" /> <br> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xYulania&layout=compact&card_width=365&langs_count=5&theme=radical" height="150" alt="Top Languages" />
