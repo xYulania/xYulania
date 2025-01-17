@@ -1,4 +1,4 @@
-<h1 align="center">⭐️ Welcome to My Profile ⭐️</h1>
+<h1 align="center">⭐️  ⭐️</h1>
 <h2 align="center">🚀 Just a slow coder dragging logic out of chaos, taming bugs one at a time, and pretending sanity wasn’t part of the sacrifice. 🚀</h2>
 
 ---
