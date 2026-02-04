@@ -41,13 +41,6 @@
 </div>
 
 ---
-
-<h3 align="center">📜 Random Quote 📜</h3>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</div>
-
----
 <h3 align="center">🌙 Luna Project Stages</h3>
 <div align="center">
   <p>
