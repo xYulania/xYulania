@@ -3,14 +3,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xYulania&show_icons=true&card_width=390&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xYulania&show_icons=false&layout=compact&card_width=365&langs_count=6&theme=radical" height="150" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=xYulania&layout=compact&theme=radical&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
 <h3 align="center">🛠 Languages and Tools 🛠</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
